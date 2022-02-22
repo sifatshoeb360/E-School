@@ -113,5 +113,9 @@ footer  a{
     line-height: 36px;
 }
 
-
+@media (max-width:768px){
+    .row{
+        gap: 24px 0px; 
+    }
+}
     
